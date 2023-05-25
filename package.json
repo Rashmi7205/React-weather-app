@@ -1,6 +1,7 @@
 {
-  "homepage": "https://rashmi7205.github.io/weather-app-react",
+  
   "name": "weather-app",
+  "homepage": "https://rashmi7205.github.io/weather-app-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
