@@ -40,6 +40,7 @@ function MainDisplay() {
         })    
         .catch(Error=>{
             setCity("Your city not Found")
+            alert("Enter a valid city name")
         })
     }
 
